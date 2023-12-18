@@ -5,11 +5,12 @@
     A landing page feita para destacar um produto ou serviço fictício.
 
 <h3>Recursos:</h3>
-    HTML5 e CSS3<br>
-    Estrutura básica de uma landing page<br>
-    Conteúdo fictício para propósitos de aprendizagem
+    HTML5 e CSS3.<br>
+    Estrutura básica de uma landing page.<br>
+    Conteúdo fictício para propósitos de aprendizagem.
     
 <h3>Instruções:</h3>
+    Clique no botão escrito "Code" ao lado do botão escrito "Add file".
     Faça o clone ou download do repositório.
     Abra o arquivo index.html em seu navegador para visualizar a landing page.
 
