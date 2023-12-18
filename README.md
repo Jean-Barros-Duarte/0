@@ -10,8 +10,8 @@
     Conteúdo fictício para propósitos de aprendizagem.
     
 <h3>Instruções:</h3>
-    Clique no botão escrito "Code" ao lado do botão escrito "Add file".
-    Faça o clone ou download do repositório.
+    Clique no botão escrito "Code" ao lado do botão escrito "Add file".<br>
+    Faça o clone ou download do repositório.<br>
     Abra o arquivo index.html em seu navegador para visualizar a landing page.
 
 <h3>Preview:</h3>
