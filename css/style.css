@@ -12,13 +12,15 @@ body{
 
 /*imagem vermelha do background*/
 .circle{
-    position: absolute;
+    position:absolute ;
     top: 0;
     left: 0;
     width: 100%;
     height: 100%;
     background: #dd1e2b;
-    clip-path: circle(600px at right 1150px);
+    clip-path: circle(610px at right 1090px);
+    z-index: -1;
+    
 }
 
 
@@ -100,11 +102,6 @@ h1 span{
 
 
 
-
-
-
-
-
 section p {
     color: 14px;
     line-height: 20px;
@@ -117,10 +114,6 @@ section p {
     
     
 }
-
-
-
-
 
 
 button {
